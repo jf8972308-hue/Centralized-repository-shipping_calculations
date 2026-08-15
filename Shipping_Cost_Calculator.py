@@ -1,4 +1,4 @@
- # Aquí hay una nueva actualización por <jf8972308-hue>
+ # Aquí hay una nueva actualización por jf8972308-hue
 
 
 # Shipping Cost Calculator
