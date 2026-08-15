@@ -1,4 +1,3 @@
- # Aquí hay una nueva actualización por <Danielito>
 
 
 # Shipping Cost Calculator
